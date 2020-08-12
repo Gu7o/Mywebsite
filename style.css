@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+}
+
+.conteudo-header{
+	position: relative;
+    overflow: hidden;
+}
+.conteudo-header h1{
+	padding: 200px;
+    position: relative;
+    z-index: 2;
+}
+.conteudo-header img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.6;
+}
+
+header.profile-pic{
+	border-radius: 100px
+}
